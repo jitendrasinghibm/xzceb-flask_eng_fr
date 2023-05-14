@@ -1,2 +1,1 @@
-from ./tests import *
-from translator import *
+from .tests import *
